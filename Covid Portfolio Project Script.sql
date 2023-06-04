@@ -1,3 +1,9 @@
+/*
+Covid19 Data Exploration
+This project involves exploring COVID-19 data and utilizing various skills and techniques, including joins, Common Table Expressions (CTEs), 
+temporary tables, window functions, aggregate functions, creating views, and converting data types
+*/
+
 SELECT * 
 FROM portfolioProject..covidDeaths
 WHERE continent IS NOT NULL
